@@ -8,7 +8,6 @@ This is a full stack website that achieves the following goals:
 4. Allow the shop managers to create new drinks and edit existing drinks.
 
 
-
 ## About the Stack
 
 We started the full stack application for you. It is designed with some key functional areas:
