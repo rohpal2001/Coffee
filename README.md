@@ -1,4 +1,4 @@
-# Coffee Maker
+# Coffee Cafe
 
 This is a full stack website that achieves the following goals:
 
